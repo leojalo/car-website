@@ -1,0 +1,56 @@
+/* Whole page */
+body {
+  background-color: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+/* Top section */
+header {
+  background-color: #1a1a1a;
+  padding: 30px;
+  text-align: center;
+}
+
+/* Content blocks */
+section {
+  padding: 20px;
+  border-bottom: 1px solid #333;
+}
+
+/* Section titles */
+h2 {
+  color: orange;
+}
+
+/* Lists */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px 0;
+}
+
+/* Image */
+img {
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+/* Button */
+button {
+  margin: 20px;
+  padding: 10px 15px;
+  background-color: orange;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 90%;
+}
